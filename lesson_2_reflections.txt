@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+We need to initialize the repos with the git init command to link the repos with git, do we can actually trace files
